@@ -1,1 +1,1 @@
-MyApp.versionMinorApp = 3
+MyApp.versionMinorApp = 2
